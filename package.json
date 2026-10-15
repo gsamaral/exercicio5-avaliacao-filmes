@@ -1,0 +1,14 @@
+{
+  "name": "exercicio5-avaliacao-filmes",
+  "version": "1.2.0",
+  "description": "Exercício Node.js de avaliação de filmes com Mocha, assert e ES Modules",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "^11.7.2"
+  },
+  "license": "ISC"
+}
